@@ -1,0 +1,30 @@
+.podFuterac{
+    margin-top: 15px;
+    width:100%;
+    background: orangered;
+    color:white;
+    margin-bottom: 0;
+   
+}
+
+.podFuterac a{
+    color: white;
+    font-weight: 400;
+    letter-spacing: 2px;
+}
+.podFuterac a:hover{
+text-decoration: none;
+color: #333333;
+}
+.podFuterac li{
+    list-style-type: none;
+    display: inline-block
+}
+.dropUp{
+    color:#333333;
+    background: white
+}
+.dropUp:hover{
+    color:white;
+    background: #333333
+}

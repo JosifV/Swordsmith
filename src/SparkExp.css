@@ -1,0 +1,640 @@
+.spark,.spark1,.spark2,.spark3,.spark4,.spark5,.spark6,.spark7,.spark8,.spark9,.spark10,.spark11,.spark12,.spark13,.spark14,.spark15,.spark16,.spark17,.spark18,.spark19,.spark20,.spark21,.spark22,.spark23,.spark24,.spark25,.spark26,.spark27,.spark28,.spark29,.spark30,.spark31,.spark32,.spark33,.spark34,.spark35,.spark36,.spark37,.spark38,.spark39,.spark40{
+  background-color: yellow;
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  border-radius: 30%;
+}
+
+@keyframes gori {
+  0% {
+    left: 59%;
+    top: 65%;
+  }
+  5% {
+    left: 45px;
+    right: 48px;
+    top: 1px;
+  }
+  10% {
+    left: 94px;
+    right: 37px;
+  }
+  15% {
+    left: 11px;
+    right: 93px;
+    top: 1px;
+  }
+  20% {
+    left: 29px;
+    right: 92px;
+  }
+  25% {
+    left: 37px;
+    right: 2px;
+    top: 1px;
+  }
+  30% {
+    left: 7px;
+    right: 27px;
+  }
+  35% {
+    left: 74px;
+    right: 4px;
+    top: 1px;
+  }
+  40% {
+    left: 71px;
+    right: 88px;
+  }
+  45% {
+    left: 14px;
+    right: 58px;
+    top: 1px;
+  }
+  50% {
+    left: 27px;
+    right: 31px;
+  }
+  55% {
+    left: 38px;
+    right: 34px;
+    bottom: 1px;
+  }
+  60% {
+    left: 24px;
+    right: 29px;
+    bottom: 1px;
+  }
+  65% {
+    left: 64px;
+    right: 88px;
+    bottom: 1px;
+  }
+  70% {
+    left: 78px;
+    right: 47px;
+    bottom: 1px;
+  }
+  75% {
+    left: 97px;
+    right: 97px;
+    bottom: 1px;
+  }
+  80% {
+    left: 13px;
+    right: 70px;
+    bottom: 1px;
+  }
+  85% {
+    left: 39px;
+    right: 40px;
+    bottom: 1px;
+  }
+  90% {
+    left: 10px;
+    right: 56px;
+    bottom: 1px;
+  }
+  95% {
+    left: 81px;
+    right: 97px;
+    bottom: 1px;
+  }
+  100% {
+    left: 38px;
+    right: 75px;
+    bottom: 1px;
+  }
+}
+.spark2 {
+  animation: 28s gori2 infinite;
+  animation-delay: 3 s;
+  animation-timing-function: ease-in;
+}
+
+@keyframes gori2 {
+  0% {
+    left: 23%;
+    top: 65%;
+  }
+  5% {
+    left: 9px;
+    right: 98px;
+    top: 1px;
+  }
+  10% {
+    left: 45px;
+    right: 82px;
+  }
+  15% {
+    left: 57px;
+    right: 18px;
+    top: 1px;
+  }
+  20% {
+    left: 77px;
+    right: 69px;
+  }
+  25% {
+    left: 40px;
+    right: 93px;
+    top: 1px;
+  }
+  30% {
+    left: 51px;
+    right: 92px;
+  }
+  35% {
+    left: 54px;
+    right: 61px;
+    top: 1px;
+  }
+  40% {
+    left: 71px;
+    right: 33px;
+  }
+  45% {
+    left: 97px;
+    right: 34px;
+    top: 1px;
+  }
+  50% {
+    left: 95px;
+    right: 40px;
+  }
+  55% {
+    left: 60px;
+    right: 98px;
+    bottom: 1px;
+  }
+  60% {
+    left: 76px;
+    right: 73px;
+    bottom: 1px;
+  }
+  65% {
+    left: 48px;
+    right: 44px;
+    bottom: 1px;
+  }
+  70% {
+    left: 12px;
+    right: 54px;
+    bottom: 1px;
+  }
+  75% {
+    left: 43px;
+    right: 42px;
+    bottom: 1px;
+  }
+  80% {
+    left: 58px;
+    right: 4px;
+    bottom: 1px;
+  }
+  85% {
+    left: 35px;
+    right: 85px;
+    bottom: 1px;
+  }
+  90% {
+    left: 43px;
+    right: 65px;
+    bottom: 1px;
+  }
+  95% {
+    left: 96px;
+    right: 14px;
+    bottom: 1px;
+  }
+  100% {
+    left: 94px;
+    right: 77px;
+    bottom: 1px;
+  }
+}.spark3 {
+  animation: 38s gori infinite;
+  animation-timing-function: ease-out;
+  animation-delay: 4 s;
+}
+
+@keyframes gori3 {
+  0% {
+    left: 89%;
+    top: 65%;
+  }
+  5% {
+    left: 44px;
+    right: 74px;
+    top: 1px;
+  }
+  10% {
+    left: 91px;
+    right: 42px;
+  }
+  15% {
+    left: 56px;
+    right: 13px;
+    top: 1px;
+  }
+  20% {
+    left: 23px;
+    right: 23px;
+  }
+  25% {
+    left: 25px;
+    right: 100px;
+    top: 1px;
+  }
+  30% {
+    left: 85px;
+    right: 85px;
+  }
+  35% {
+    left: 62px;
+    right: 19px;
+    top: 1px;
+  }
+  40% {
+    left: 80px;
+    right: 23px;
+  }
+  45% {
+    left: 90px;
+    right: 75px;
+    top: 1px;
+  }
+  50% {
+    left: 34px;
+    right: 53px;
+  }
+  55% {
+    left: 18px;
+    right: 76px;
+    bottom: 1px;
+  }
+  60% {
+    left: 99px;
+    right: 15px;
+    bottom: 1px;
+  }
+  65% {
+    left: 85px;
+    right: 37px;
+    bottom: 1px;
+  }
+  70% {
+    left: 33px;
+    right: 16px;
+    bottom: 1px;
+  }
+  75% {
+    left: 79px;
+    right: 74px;
+    bottom: 1px;
+  }
+  80% {
+    left: 88px;
+    right: 18px;
+    bottom: 1px;
+  }
+  85% {
+    left: 73px;
+    right: 62px;
+    bottom: 1px;
+  }
+  90% {
+    left: 56px;
+    right: 73px;
+    bottom: 1px;
+  }
+  95% {
+    left: 90px;
+    right: 14px;
+    bottom: 1px;
+  }
+  100% {
+    left: 14px;
+    right: 75px;
+    bottom: 1px;
+  }
+}.spark4 {
+  animation: 36s gori4 infinite;
+  animation-timing-function: ease-out;
+  animation-delay: 1 s;
+}
+
+@keyframes gori4 {
+  0% {
+    left: 36%;
+    top: 65%;
+  }
+  5% {
+    left: 30px;
+    right: 37px;
+    top: 1px;
+  }
+  10% {
+    left: 42px;
+    right: 25px;
+  }
+  15% {
+    left: 99px;
+    right: 46px;
+    top: 1px;
+  }
+  20% {
+    left: 19px;
+    right: 83px;
+  }
+  25% {
+    left: 89px;
+    right: 53px;
+    top: 1px;
+  }
+  30% {
+    left: 84px;
+    right: 100px;
+  }
+  35% {
+    left: 15px;
+    right: 52px;
+    top: 1px;
+  }
+  40% {
+    left: 51px;
+    right: 86px;
+  }
+  45% {
+    left: 43px;
+    right: 96px;
+    top: 1px;
+  }
+  50% {
+    left: 30px;
+    right: 14px;
+  }
+  55% {
+    left: 47px;
+    right: 9px;
+    bottom: 1px;
+  }
+  60% {
+    left: 61px;
+    right: 7px;
+    bottom: 1px;
+  }
+  65% {
+    left: 53px;
+    right: 21px;
+    bottom: 1px;
+  }
+  70% {
+    left: 44px;
+    right: 11px;
+    bottom: 1px;
+  }
+  75% {
+    left: 5px;
+    right: 85px;
+    bottom: 1px;
+  }
+  80% {
+    left: 97px;
+    right: 79px;
+    bottom: 1px;
+  }
+  85% {
+    left: 90px;
+    right: 51px;
+    bottom: 1px;
+  }
+  90% {
+    left: 46px;
+    right: 1px;
+    bottom: 1px;
+  }
+  95% {
+    left: 71px;
+    right: 2px;
+    bottom: 1px;
+  }
+  100% {
+    left: 80px;
+    right: 19px;
+    bottom: 1px;
+  }
+}.spark5 {
+  animation: 4s gori5 infinite;
+  animation-timing-function: ease-out;
+  animation-delay: 2 s;
+}
+
+@keyframes gori5 {
+  0% {
+    left: 46%;
+    top: 65%;
+  }
+  5% {
+    left: 23px;
+    right: 34px;
+    top: 1px;
+  }
+  10% {
+    left: 60px;
+    right: 6px;
+  }
+  15% {
+    left: 30px;
+    right: 56px;
+    top: 1px;
+  }
+  20% {
+    left: 93px;
+    right: 18px;
+  }
+  25% {
+    left: 40px;
+    right: 38px;
+    top: 1px;
+  }
+  30% {
+    left: 51px;
+    right: 82px;
+  }
+  35% {
+    left: 70px;
+    right: 54px;
+    top: 1px;
+  }
+  40% {
+    left: 77px;
+    right: 45px;
+  }
+  45% {
+    left: 9px;
+    right: 2px;
+    top: 1px;
+  }
+  50% {
+    left: 29px;
+    right: 46px;
+  }
+  55% {
+    left: 98px;
+    right: 14px;
+    bottom: 1px;
+  }
+  60% {
+    left: 62px;
+    right: 4px;
+    bottom: 1px;
+  }
+  65% {
+    left: 49px;
+    right: 45px;
+    bottom: 1px;
+  }
+  70% {
+    left: 2px;
+    right: 80px;
+    bottom: 1px;
+  }
+  75% {
+    left: 10px;
+    right: 51px;
+    bottom: 1px;
+  }
+  80% {
+    left: 88px;
+    right: 12px;
+    bottom: 1px;
+  }
+  85% {
+    left: 61px;
+    right: 55px;
+    bottom: 1px;
+  }
+  90% {
+    left: 61px;
+    right: 42px;
+    bottom: 1px;
+  }
+  95% {
+    left: 60px;
+    right: 72px;
+    bottom: 1px;
+  }
+  100% {
+    left: 49px;
+    right: 4px;
+    bottom: 1px;
+  }
+}.spark5 {
+  animation: 9s gori6 infinite;
+  animation-timing-function: ease-out;
+  animation-delay: 4 s;
+}
+
+@keyframes gori5 {
+  0% {
+    left: 87%;
+    top: 65%;
+  }
+  5% {
+    left: 30px;
+    right: 51px;
+    top: 1px;
+  }
+  10% {
+    left: 100px;
+    right: 21px;
+  }
+  15% {
+    left: 30px;
+    right: 22px;
+    top: 1px;
+  }
+  20% {
+    left: 23px;
+    right: 27px;
+  }
+  25% {
+    left: 19px;
+    right: 68px;
+    top: 1px;
+  }
+  30% {
+    left: 59px;
+    right: 65px;
+  }
+  35% {
+    left: 49px;
+    right: 4px;
+    top: 1px;
+  }
+  40% {
+    left: 31px;
+    right: 59px;
+  }
+  45% {
+    left: 47px;
+    right: 61px;
+    top: 1px;
+  }
+  50% {
+    left: 14px;
+    right: 13px;
+  }
+  55% {
+    left: 7px;
+    right: 12px;
+    bottom: 1px;
+  }
+  60% {
+    left: 28px;
+    right: 29px;
+    bottom: 1px;
+  }
+  65% {
+    left: 92px;
+    right: 29px;
+    bottom: 1px;
+  }
+  70% {
+    left: 22px;
+    right: 34px;
+    bottom: 1px;
+  }
+  75% {
+    left: 67px;
+    right: 10px;
+    bottom: 1px;
+  }
+  80% {
+    left: 99px;
+    right: 11px;
+    bottom: 1px;
+  }
+  85% {
+    left: 90px;
+    right: 22px;
+    bottom: 1px;
+  }
+  90% {
+    left: 43px;
+    right: 39px;
+    bottom: 1px;
+  }
+  95% {
+    left: 28px;
+    right: 14px;
+    bottom: 1px;
+  }
+  100% {
+    left: 82px;
+    right: 47px;
+    bottom: 1px;
+  }
+}

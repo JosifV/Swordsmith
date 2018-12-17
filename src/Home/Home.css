@@ -1,0 +1,235 @@
+
+.jumboShadow{
+    background-color: rgb(0, 0, 0, 0.5);
+    border-radius: 25px;
+    color: white;
+    height: 100%;
+    width:100%;
+    margin-right:25px;
+    
+    animation: 6s fadeIn;
+    animation-fill-mode: forwards;
+    
+    visibility: hidden;
+}
+.shortAboutMeJubmo{
+    letter-spacing: 3px;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+      }
+      100% {
+        visibility: visible;
+        opacity: 1;
+      }
+  }
+  .jumboTitle{
+      padding:25px;
+  }
+  .firstLetter{
+      font-size: 190%;
+font-weight: bold;
+  }
+  .jumboForm input, .jumboForm button, .jumboForm textarea {
+    width: 100%;
+    border-radius: 10px;
+    opacity: 0.4;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .jumboForm input:focus, .jumboForm button:focus, .jumboForm textarea:focus {
+    opacity: 0.8;
+  }
+  .jumboForm button{
+      font-size: 130%;
+      font-weight: 400
+  }
+
+  .secondAboutMe {
+    padding: 55px;
+    background: lightgray;
+    color: #333333;
+  }
+  .secondAboutMe p{
+letter-spacing: 1.2px;
+  }
+  .secondAboutMe li {
+    list-style-type: none;
+    padding: 15px;
+  }
+  .secondAboutMe a {
+    font-weight: 600;
+    padding: 15px;
+    
+  }
+  .secondAboutMe a:hover {
+   text-decoration: none;
+   background: #333333;
+   color: white;
+  }
+.glifsss{
+    background: #333333;
+    color: white;
+    padding: 25px;
+    animation: 1.5s changeBackHandler;
+}
+.glifTitle{
+    text-align: center;
+    font-weight: 400;
+    padding: 50px 50px 50px 75px;
+  }
+#glifs{
+    font-size: 104px;
+    padding: 25px;
+    border-radius: 10px
+}
+.glifsss:hover{
+    background: orangered;
+    color: white;
+    animation: 1s changeHandler;
+}
+@keyframes changeHandler {
+    0% {
+        background: #333333;
+        color: white;
+      }
+      100% {
+        background: orangered;
+    color: white;
+      }
+  }
+  @keyframes changeBackHandler{
+    0% {
+        background: orangered;
+        color: white;
+
+      }
+      100% {
+        background: #333333;
+        color: white;
+      }
+  }
+.galTitle{
+    padding-left:25px;
+}
+  .galery img:hover {
+    cursor: pointer;
+  }
+  .galery{
+    padding: 55px;
+    background: lightgray;
+    color: #333333;
+  }
+  .galery p{
+    letter-spacing: 1.2px;
+   
+      }
+
+.row {
+    display: -ms-flexbox; /* IE10 */
+    display: flex;
+    -ms-flex-wrap: wrap; /* IE10 */
+    flex-wrap: wrap;
+    padding: 0 4px;
+}
+
+/* Create four equal columns that sits next to each other */
+.column {
+    -ms-flex: 25%; /* IE10 */
+    flex: 25%;
+    max-width: 25%;
+    padding: 0 4px;
+}
+
+.column img {
+    margin-top: 8px;
+    vertical-align: middle;
+}
+.column img:hover {
+    opacity: 0.5;
+}
+
+/* Responsive layout - makes a two column-layout instead of four columns */
+@media screen and (max-width: 800px) {
+    .column {
+        -ms-flex: 50%;
+        flex: 50%;
+        max-width: 50%;
+    }
+}
+
+/* Responsive layout - makes the two columns stack on top of each other instead of next to each other */
+@media screen and (max-width: 600px) {
+    .column {
+        -ms-flex: 100%;
+        flex: 100%;
+        max-width: 100%;
+    }
+}
+.thirdAboutMe {
+    padding: 15px 55px 35px 55px;
+    background: lightgray;
+    color: #333333;
+  }
+  .thirdAboutMe p{
+letter-spacing: 1.2px;
+  }
+
+.footerInfo{
+    background: #333333;
+    color: white;
+    padding: 35px 35px 5px 35px;
+}
+.ramForImg{
+    padding: 15px
+}
+.footerInfo img{
+    height:100%;
+    border:2px solid white;
+    border-radius: 10px;
+}
+
+.footerInfo li{
+    list-style: none;
+    padding: 5px;
+    color:white;
+    letter-spacing: 2px;
+    text-decoration: none;
+}
+.footerInfo h3{
+   font-weight: 300;
+   letter-spacing: 2px
+}
+.footerInfo a{
+    color:white;
+    letter-spacing: 2px;
+    padding: 5px;
+}
+.footerInfo a:hover{
+    color:#333333;
+    background: white;
+    text-decoration: none;
+}
+.podFuterac{
+    width:100%;
+    background: orangered;
+    color:white;
+    margin-bottom: 0;
+}
+.podFuterac a{
+    color: white;
+    font-weight: 400;
+    font-size: 120%;
+    letter-spacing: 2px;
+    padding: 5px;
+}
+.podFuterac a:hover{
+text-decoration: none;
+color: #333333;
+}
+.podFuterac li{
+    list-style-type: none;
+    display: inline-block
+}

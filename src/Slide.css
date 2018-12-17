@@ -1,0 +1,29 @@
+@import "~slick-carousel/slick/slick.css";
+@import "~slick-carousel/slick/slick-theme.css";
+
+.magnifying-glass {
+    border:#333333; 
+    border-radius: 105px;
+    box-shadow: 3px 3px 3px rgb(105, 105, 105);
+  }
+.dotsss{
+    text-align: center;
+}
+.dotsss li{
+    display: inline;
+    padding: 0 10px 0 10px
+}
+.dotsss button{
+    background: lightslategray;
+    color: lightslategray;
+    border-radius: 100px;
+    border: none;
+}
+.dotsss button:hover{
+    background: #333;
+    color: #333;
+}
+ .dotsss button:active{
+    background: rgb(102, 102, 102);
+    color: rgb(102, 102, 102);
+} 
